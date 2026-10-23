@@ -1,6 +1,7 @@
 ---
 name: geo-optimization-guide
 description: Plan, audit and measure GEO/AEO (AI search optimization) for ChatGPT, Google AI Overviews/AI Mode, Bing Copilot, Perplexity and Claude using the 91-action GDdash evidence-graded playbook.
+disable-model-invocation: true
 ---
 
 # GEO optimization playbook (GDdash GEO Guide 2027)
